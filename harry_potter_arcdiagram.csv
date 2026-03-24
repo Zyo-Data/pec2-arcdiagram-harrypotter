@@ -1,0 +1,26 @@
+source,target,weight
+Harry Potter,Ron Weasley,10
+Harry Potter,Hermione Granger,10
+Harry Potter,Albus Dumbledore,8
+Harry Potter,Severus Snape,7
+Harry Potter,Rubeus Hagrid,8
+Harry Potter,Draco Malfoy,6
+Harry Potter,Ginny Weasley,6
+Harry Potter,Sirius Black,7
+Ron Weasley,Hermione Granger,9
+Ron Weasley,Ginny Weasley,8
+Ron Weasley,Fred Weasley,6
+Ron Weasley,George Weasley,6
+Hermione Granger,Ginny Weasley,6
+Hermione Granger,Albus Dumbledore,5
+Hermione Granger,Severus Snape,4
+Draco Malfoy,Severus Snape,6
+Draco Malfoy,Lucius Malfoy,7
+Draco Malfoy,Bellatrix Lestrange,4
+Albus Dumbledore,Severus Snape,9
+Albus Dumbledore,Minerva McGonagall,7
+Rubeus Hagrid,Albus Dumbledore,7
+Sirius Black,Remus Lupin,8
+Remus Lupin,Severus Snape,5
+Voldemort,Bellatrix Lestrange,9
+Voldemort,Lucius Malfoy,7
